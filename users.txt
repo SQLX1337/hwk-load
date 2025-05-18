@@ -1,0 +1,3 @@
+user1,none,g4
+user2,YOUR_HWID_HERE,g6
+admin,none,g8 
