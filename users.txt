@@ -1,7 +1,5 @@
-# Format: username,hwid,group
+# Format: username,hwid
 # When hwid is "none", it means this is a new user and needs to be assigned an HWID
-# Valid groups are g4, g6, and g8
+# Exilium Cheat User List
 
-CryZuX,bcc46ec9-86af-4ba1-9aa0-baef4dba758e,g4
-user2,YOUR_HWID_HERE,g6
-admin,none,g8 
+CryZuX,bcc46ec9-86af-4ba1-9aa0-baef4dba758e
