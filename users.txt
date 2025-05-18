@@ -2,4 +2,4 @@
 # When hwid is "none", it means this is a new user and needs to be assigned an HWID
 # Exilium Cheat User List
 
-CryZuX,bcc46ec9-86af-4ba1-9aa0-baef4dba758e
+CryZuX,9d260071-1eae-98c7-b27f-47fad16b0477
