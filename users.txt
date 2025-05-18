@@ -1,3 +1,7 @@
+# Format: username,hwid,group
+# When hwid is "none", it means this is a new user and needs to be assigned an HWID
+# Valid groups are g4, g6, and g8
+
 user1,none,g4
 user2,YOUR_HWID_HERE,g6
 admin,none,g8 
